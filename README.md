@@ -18,7 +18,7 @@ dbname:
 
 Add Drift to your project using go get:
 ```go
-go get github.com/SydDaps/drift
+go get github.com/SydDaps/drift@v1.0.0
 ```
 
 ## 🛠️ Creating a Migration File
